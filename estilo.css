@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+}
+
+.d1{
+    flex-direction: row;
+}
+
+.d2{
+    flex-direction: row-reverse;
+}
+
+.d3{
+    flex-direction: column;
+}
+
+.d4{
+    flex-direction: column-reverse;
+}
